@@ -43,7 +43,7 @@
 ## Installation
 
 Mit dem Folgendem Befehl kann man schauen ob man Docker installiert hat und ob man schon welche habt:
-![[Pasted image 20230403104012.png]]
+<img width="522" alt="image" src="https://user-images.githubusercontent.com/112382296/229481734-3db5a9b2-a810-4f33-a9fc-3477f4df8ed3.png">
 
 Und falls man keinen Docker Installiert habt kann man die Folgenden Befehle in die Commandozeile einfügen:
 
@@ -104,7 +104,7 @@ apt update apt install code
 ## Anpassung im Visual Studio Code
 
 1. Installation von Docker Extetion in VS Code:
-   ![[Pasted image 20230403111818.png]]
+   <img width="471" alt="image" src="https://user-images.githubusercontent.com/112382296/229481861-885d79f1-494a-4fe7-afe8-8fcb987c4b63.png">
 2. Danach kann man dies auch im Visual Studio Code Benutzen. Für weiter Informationen kann man bei [https://code.visualstudio.com/docs/containers/overview](https://code.visualstudio.com/docs/containers/overview) sich hineinlesen.
 
 ---
@@ -131,7 +131,7 @@ docker pull ubuntu:latest
 docker images
 ```
 
-![[Pasted image 20230403113255.png]]
+<img width="513" alt="image" src="https://user-images.githubusercontent.com/112382296/229482115-acd32691-c3c0-4ec9-94bc-1235e0cc4b0b.png">
 
 Man verwendet diesen Befehl meistens wenn man die Images, die man besitzt anzeigen möchte.
 
